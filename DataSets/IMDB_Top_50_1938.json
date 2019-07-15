@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Adventures of Robin Hood",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Bringing Up Baby",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy, Family, Romance",
+        "description": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Next Time I Marry",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Heiress Nancy Crocker Fleming will only receive her inheritance if she marries a \"plain American.\" Her late father was afraid a foreign gigolo would steal her heart and money. So Nancy pays...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Affairs of Annabel",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Comedy",
+        "description": "Wonder Pictures' seedy publicity man Lanny Morgan has put the studio's biggest star, Annabel Allison, in one crazy stunt after another. His latest scheme has Annabel pretending to be a maid...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Lady Vanishes",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Mystery, Thriller",
+        "description": "While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Annabel Takes a Tour",
+        "certificate": "",
+        "runtime": "67 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Movie star Annabel Allison has further comic adventures with her wacky publicity agent.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "You Can't Take It with You",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man from a family of rich snobs becomes engaged to a woman from a good-natured but decidedly eccentric family.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Angels with Dirty Faces",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A priest tries to stop a gangster from corrupting a group of street kids.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Jezebel",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "In 1850s Louisiana, a free-spirited Southern belle loses her fianc\u00e9 due to her stubborn vanity and pride, and vows to win him back.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Pygmalion",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A phonetics and diction expert makes a bet that he can teach a cockney flower girl to speak proper English and pass as a lady in high society.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Holiday",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "A young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fianc\u00e9e's eccentric sister and long-suffering brother.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Aleksandr Nevskiy",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Action, Biography, Drama",
+        "description": "The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Algiers",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "Beautiful Gaby meets a romantic jewel thief in the mysterious Casbah.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Adventures of Tom Sawyer",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "Tom Sawyer and his pal Huckleberry Finn have great adventures on the Mississippi River, pretending to be pirates, attending their own funeral and witnessing a murder.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Boys Town",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Biography, Drama",
+        "description": "When a death row prisoner tells him he wouldn't have led a life of crime if only he had had one friend as a child, Father Edward Flanagan decides to do something about. An advocate of child...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Le quai des brumes",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A military deserter finds love and trouble (and a small dog) in a smoky French port city.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Flash Gordon's Trip to Mars",
+        "certificate": "",
+        "runtime": "299 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When a deadly Nitron ray strikes Earth, Flash Gordon and his friends travel to Mars to battle Ming the Merciless and his new ally Queen Azura.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Marie Antoinette",
+        "certificate": "",
+        "runtime": "149 min",
+        "genre": "Biography, Drama, History",
+        "description": "The tragic life of Marie Antoinette, who became queen of France in her late teens.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Blondie",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Family",
+        "description": "Dagwood loses his job on the eve of his and Blondie's fifth wedding anniversary.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Love Finds Andy Hardy",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Romance",
+        "description": "Andy has problems raising the last payment for a used car and juggling three pretty girls with an upcoming country club dance scheduled.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Block-Heads",
+        "certificate": "",
+        "runtime": "57 min",
+        "genre": "Comedy, War",
+        "description": "Stan, who has remained faithfully at his World War I post for twenty years, finally comes home where his best friend, Ollie, takes him in, thus allowing him to discover the many conveniences of the modern world.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Baroness and the Butler",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A butler gets elected to the Hungarian parliament where he opposes his master's government.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Frontiersmen",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Action, Adventure, Western",
+        "description": "The local school is causing Hoppy problems. First Bar 20 cattle are stolen when Hoppy investigates a problem there. Then the new teacher arrives and disrupts the routine of the Bar 20 hands...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Rebecca of Sunnybrook Farm",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Rebecca's Uncle Harry leaves her with Aunt Miranda who forbids her to associate with show people. But neighbor Anthony Kent is a talent scout who secretly set it up for her to broadcast.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Convict 99",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy",
+        "description": "A disgraced school master, Benjamin Twist, is mistaken for a tough prison governor and assigned the charge of a prison for particularly hardened criminals. Believing he is being sent to a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "La b\u00eate humaine",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Crime, Drama",
+        "description": "In this classic adaptation of Emile Zola's novel, a tortured train engineer falls in love with a troubled married woman who has helped her husband commit a murder.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "In Old Chicago",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Action, Drama, Musical",
+        "description": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "La femme du boulanger",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Comedy, Drama",
+        "description": "A small village rejoices at the arrival of a new baker. But when his young wife runs off with another man, he is unable to keep baking and the village is thrown into disarray.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Vivacious Lady",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "A professor marries a nightclub singer, much to the consternation of his family and friends back home.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Dawn Patrol",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "War, Drama",
+        "description": "British flying aces in World War I contend with the harsh realities of war.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Child Bride",
+        "certificate": "",
+        "runtime": "62 min",
+        "genre": "Drama",
+        "description": "Schoolteacher in a rural community campaigns to stop the practice of older men marrying young, underage girls.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "H\u00f4tel du Nord",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama, Romance",
+        "description": "A young couple, Renee and Pierre, take one night a room at the Hotel du Nord, in Paris, near the canal Saint-Martin. They want to die together, but after having shooted at Renee, Pierre ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "St. Martin's Lane",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy",
+        "description": "On the sidewalks of the London theater district the buskers (street performers) earn enough coins for a cheap room. Charles, who recites dramatic monologues, sees that a young pickpocket, ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Too Much Johnson",
+        "certificate": "",
+        "runtime": "67 min",
+        "genre": "Comedy",
+        "description": "A woman has two lovers. When one man finds out about the other, he acts as a villain and chases after the protagonist.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Sisters",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "Three daughters of a small town pharmacist undergo trials and tribulations in their problematic marriages between 1904 and 1908.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Three Comrades",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama, Romance",
+        "description": "A love story centered around the lives of three young German soldiers in the years following World War I. Their close friendship is strengthened by their shared love for the same woman who ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Bluebeard's Eighth Wife",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Romance",
+        "description": "After learning her multi-millionaire fianc\u00e9 has already been married seven times, the daughter of a penniless marquis decides to tame him.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "En kvinnas ansikte",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama",
+        "description": "An embittered woman, leader of a criminal gang, has a change of heart.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Having Wonderful Time",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Romance",
+        "description": "Teddy Shaw, a bored New York office girl, goes to a camp in the Catskill Mountains for rest and finds Chick Kirkland.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Test Pilot",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Mr. Wong, Detective",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Adventure, Crime, Drama",
+        "description": "When a chemical manufacturer is killed after asking detective James Wong to help him, Wong investigates this and two subsequent murders. He uncovers a international spy ring hoping to steal...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Terror of Tiny Town",
+        "certificate": "",
+        "runtime": "62 min",
+        "genre": "Western",
+        "description": "An evil gunslinging midget comes to terrorize the good little people of Tiny Town. The townspeople organize to defeat him, and zany antics ensue",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Merrily We Live",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "Dizzy society matron Emily Kilbourne has a habit of hiring ex-cons and hobos as servants. Her latest find is a handsome \"tramp\" who shows up at her doorstep and soon ends up in a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Swiss Miss",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Comedy, Musical",
+        "description": "Stanley and Oliver are mousetrap salesmen hoping to strike it rich in Switzerland, but get swindled out of all their money by a cheesemaker. While working off their hotel debt, Oliver falls...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "A Christmas Carol",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Drama, Family, Fantasy",
+        "description": "On Christmas Eve, an old miser named Ebenezer Scrooge is visited by the spirit of his former partner, Jacob Marley. The deceased partner was in his lifetime as mean and miserly as Scrooge ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Hard to Get",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Comedy, Romance",
+        "description": "When spoiled young heiress Maggie Richards tries to charge some gasoline at an auto camp run by Bill Davis, he makes her work out her bill by making beds. Resolving to get even, she ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Buccaneer",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "Semi-fictional account of pirate Jean Lafitte's involvement in the War of 1812.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Carefree",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A psychiatrist agrees to hypnotize his friend's girlfriend in order to convince her to accept his proposals of marriage, but she ends up falling for the psychiatrist instead.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Great Waltz",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Biography, Drama, Music",
+        "description": "In 1845 Vienna, Johann Strauss II - Schani to his friends - would rather write and perform waltzes than anything else, this at a time when a waltz is not considered proper society music. ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Divorce of Lady X",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Divorce lawyer Everard Logan thinks the woman who spent the night in his hotel room is the erring wife of his new client.",
+        "director": "",
+        "stars": []
+    }
+}

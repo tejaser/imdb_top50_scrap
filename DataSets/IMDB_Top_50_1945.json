@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Dick Tracy",
+        "certificate": "",
+        "runtime": "61 min",
+        "genre": "Action, Crime, Mystery",
+        "description": "Police detective Dick Tracy must identify and apprehend a serial killer known as Splitface.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Woman in Green",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Drama, Mystery",
+        "description": "Sherlock Holmes investigates when young women around London turn up murdered, each with a finger severed. Scotland Yard suspects a madman, but Holmes believes the killings to be part of a diabolical plot.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Fallen Angel",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "A slick con man arrives in a small town looking to make some money, but soon gets more than he bargained for.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Mildred Pierce",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "And Then There Were None",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Seven guests, a newly hired personal secretary and two staff are gathered on an isolated island by an absent host and someone begins killing them off one by one. They work together to determine who the killer is. Could it be one of them?",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Spellbound",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Film-Noir, Mystery, Romance",
+        "description": "A psychiatrist protects the identity of an amnesia patient accused of murder while attempting to recover his memory.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Leave Her to Heaven",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "A writer falls in love with a young socialite and they're soon married. But her obsessive love for him threatens to be the undoing of them both, and everyone else around them.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Picture of Dorian Gray",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A corrupt young man somehow keeps his youthful beauty, but a special painting gradually reveals his inner ugliness to all.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Brief Encounter",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama, Romance",
+        "description": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Detour",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Chance events trap hitch-hiker Al Roberts in a tightening net of film noir trouble.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Dead of Night",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Horror",
+        "description": "An architect senses impending doom as his half-remembered recurring dream turns into reality. The guests at the country house encourage him to stay as they take turns telling supernatural tales.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Lost Weekend",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Drama, Film-Noir",
+        "description": "The desperate life of a chronic alcoholic is followed through a four-day drinking bout.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Story of G.I. Joe",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Biography, Drama, War",
+        "description": "During WW2, Pulitzer prize winner and war correspondent Ernie Pyle joins the army and writes articles about his comrades in his daily columns.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Les enfants du paradis",
+        "certificate": "",
+        "runtime": "189 min",
+        "genre": "Drama, Romance",
+        "description": "The theatrical life of a beautiful courtesan and the four men who love her.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "They Were Expendable",
+        "certificate": "",
+        "runtime": "135 min",
+        "genre": "Drama, War",
+        "description": "The PT boat unit Motor Torpedo Boat Squadron Three defends the Philippines from Japanese invasion during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Clock",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "In 1945, during a 48-hour leave, a soldier accidentally meets a girl at Pennsylvania Station and spends his leave with her, eventually falling in love with the lovely New Yorker.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Scarlet Street",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama, Film-Noir, Thriller",
+        "description": "When a man in mid-life crisis befriends a young woman, her venal fianc\u00e9 persuades her to con him out of the fortune they mistakenly assume he possesses.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Roma citt\u00e0 aperta",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Thriller, War",
+        "description": "During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Enchanted Cottage",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "A homely maid and a scarred ex-GI meet at the cottage where she works and where he was to spend his honeymoon prior to his accident. The two develop a bond and agree to marry, more out of ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "State Fair",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "The Frake family attends the annual Iowa State Fair; each member of the clan has their own reason for doing so.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Anchors Aweigh",
+        "certificate": "",
+        "runtime": "140 min",
+        "genre": "Comedy, Fantasy, Music",
+        "description": "Two sailors, one naive, the other experienced in the ways of the world, on liberty in Los Angeles, is the setting for this movie musical.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Blithe Spirit",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Fantasy",
+        "description": "Charles and his second wife, Ruth, are haunted by the spirit of his first wife, Elvira. Medium Madame Arcati tries to help things out by contacting the ghost.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "A Tree Grows in Brooklyn",
+        "certificate": "PG",
+        "runtime": "129 min",
+        "genre": "Drama, Romance",
+        "description": "Encouraged by her idealistic if luckless father, a bright and imaginative young woman comes of age in a Brooklyn tenement during the early 1900s.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Falcon in San Francisco",
+        "certificate": "",
+        "runtime": "66 min",
+        "genre": "Crime, Mystery",
+        "description": "The Falcon and his friend Goldie Locke check into what appears to be a silk-smuggling racket in San Francisco.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Bells of St. Mary's",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Drama",
+        "description": "At a big city Catholic school, Father O'Malley and Sister Benedict indulge in friendly rivalry, and succeed in extending the school through the gift of a building.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "I Know Where I'm Going!",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama, Romance",
+        "description": "A young Englishwoman goes to the Hebrides to marry her older, wealthier fianc\u00e9. When the weather keeps them separated on different islands, she begins to have second thoughts.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Ziegfeld Follies",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Musical",
+        "description": "The late, great impresario Florenz Ziegfeld Jr. looks down from Heaven and ordains a new revue in his grand old style.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Horn Blows at Midnight",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy, Fantasy, Music",
+        "description": "Falling asleep during the Paradise Coffee (\"The Coffee that Makes You Sleep\") Program, the band's third trumpeter dreams he's Athanael, an angel deputized to blow the Last Trumpet at ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Objective, Burma!",
+        "certificate": "",
+        "runtime": "142 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A platoon of special ops are tasked to parachute into the remote Burmese jungle and destroy a strategic Japanese radar station, but getting out isn't as easy.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Back to Bataan",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama, War",
+        "description": "In 1942, after the fall of the Philippines to the Japanese, U.S. Army Col. Joseph Madden stays behind to organize the local resistance against the Japanese invaders.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "My Name Is Julia Ross",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Julia Ross secures employment, through a rather nosy employment agency, with a wealthy widow, Mrs. Hughes, and goes to live at her house. 2 days later, she awakens - in a different house, ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Hangover Square",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A promising classical musician finds his life poisoned by a music hall dancer -- and by the strange gaps in his memory.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The House of Fear",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "Sherlock Holmes investigates a series of deaths at a castle with each foretold by the delivery of orange pips to the victims.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Body Snatcher",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Horror, Thriller",
+        "description": "A ruthless doctor and his young prize student find themselves continually harassed by their murderous supplier of illegal cadavers.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Conflict",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "An engineer trapped in an unhappy marriage murders his wife in the hope of marrying her younger sister.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Captain Kidd",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The unhistorical adventures of pirate Captain Kidd revolve around treasure and treachery.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Christmas in Connecticut",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy, Romance",
+        "description": "A food writer who has lied about being the perfect housewife must try to cover her deception when her boss and a returning war hero invite themselves to her home for a traditional family Christmas.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Perfect Strangers",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama, Romance",
+        "description": "A dull married couple, separated by their enlistment during World War II, reunite after three years to find that they have become very different people.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "House of Dracula",
+        "certificate": "",
+        "runtime": "67 min",
+        "genre": "Fantasy, Horror, Sci-Fi",
+        "description": "Count Dracula and the Wolf Man seek cures for their afflictions; a hunchbacked woman, a mad scientist and Frankenstein's Monster have their own troubles.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Blood on the Sun",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama, Romance, Thriller",
+        "description": "A dedicated American reporter in 1930s Japan is determined to expose that government's plan for world domination.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Isle of the Dead",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "On a Greek island during the 1912 war, several people are trapped by quarantine for the plague. If that isn't enough worry, one of the people, a superstitious old peasant woman, suspects ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Pride of the Marines",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "Marine hero Al Schmid is blinded in battle and returns home to be rehabilitated. He readjusts to his civilian life with the help of his soon to be wife.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Adventure",
+        "certificate": "",
+        "runtime": "135 min",
+        "genre": "Drama, Romance, Comedy",
+        "description": "Dark, romantic, complicated drama about a rowdy merchant mariner and sophisticated librarian who clash over their lifestyles and values - and then fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Valley of Decision",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama",
+        "description": "An Irish maid falls for the son of her wealthy boss, though their disapproving fathers and a bitter strike at the steel mill complicates matters.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Keep Your Powder Dry",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama, War",
+        "description": "A disparate group of women try to adjust to their new lives after enlisting in the Women's Army Corps.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Caesar and Cleopatra",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "At the height of the Roman Civil War, a young Cleopatra meets a middle-aged Julius Caesar, who teaches her how to rule Egypt.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Saratoga Trunk",
+        "certificate": "",
+        "runtime": "135 min",
+        "genre": "Drama, Romance, Western",
+        "description": "An opportunistic Texas gambler and the exiled Creole daughter of an aristocratic family join forces to achieve justice from the society that has ostracized them.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Along Came Jones",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "A good-natured saddle tramp traveling with his sidekick, is mistaken for a ruthless outlaw with a price on his head.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Wicked Lady",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Adventure, Drama",
+        "description": "A noblewoman begins to lead a dangerous double life in order to alleviate her boredom.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "A Song to Remember",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Biography, Drama, Music",
+        "description": "Biography of Frederic Chopin.",
+        "director": "",
+        "stars": []
+    }
+}

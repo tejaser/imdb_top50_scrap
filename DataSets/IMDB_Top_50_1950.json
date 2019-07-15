@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Cinderella",
+        "certificate": "G",
+        "runtime": "74 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Sunset Blvd.",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir",
+        "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Rio Grande",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Romance, Western",
+        "description": "A cavalry officer posted on the Rio Grande must deal with murderous raiding Apaches, his son who's a risk-taking recruit and his wife from whom he has been separated for many years.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "All About Eve",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Drama",
+        "description": "An ing\u00e9nue insinuates herself into the lives of an established but aging stage actress and her circle of theater friends.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Rash\u00f4mon",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Father of the Bride",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Romance",
+        "description": "The father of a young woman deals with the emotional pain of her getting married, along with the financial and organizational trouble of arranging the wedding.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Asphalt Jungle",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A major heist goes off as planned, until bad luck and double crosses cause everything to unravel.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Tattooed Stranger",
+        "certificate": "",
+        "runtime": "64 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Early one morning in a New York City park, a passerby walking his dog discovers who ends up being a Jane Doe shot dead in the front passenger seat of a parked car. Homicide Chief Captain ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Harvey",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Stromboli, terra di Dio",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama",
+        "description": "Karin, a young woman from the Baltic countries, marries fisherman Antonio to escape from a prison camp. But she cannot get used to the tough life in Antonio's volcano-threatened village, Stromboli.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Shadow on the Wall",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A woman kills her beautiful sister in a rage after finding out she has an affair with her fianc\u00e9, and later plans on killing the little girl who may have witnessed the murder.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "In a Lonely Place",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "A potentially violent screenwriter is a murder suspect until his lovely neighbor clears him. But she begins to have doubts.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Winchester '73",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Action, Drama, Western",
+        "description": "The journey of a prized rifle from one ill-fated owner to another parallels a cowboy's search for a murderous fugitive.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Kansas Raiders",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Western",
+        "description": "Outraged by Redleg atrocities, the James and Younger Brothers along with Kit Dalton join Quantrill's Raiders and find themselves participating in even worse war crimes.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Man Who Cheated Himself",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A veteran homicide detective who has witnessed his socialite girlfriend kill her husband sees his inexperienced brother assigned to the case.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Murder Without Crime",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "In London, a man is blackmailed by his landlord-neighbor after he accidentally kills, in his flat, a woman he picked up in a nightclub.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Treasure Island",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Adventure, Family",
+        "description": "The treasure seeking adventures of young Jim Hawkins and pirate captain Long John Silver.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Born Yesterday",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A tycoon hires a tutor to teach his lover proper etiquette, with unexpected results.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Los olvidados",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Crime, Drama",
+        "description": "A group of juvenile delinquents live a violent and crime-filled life in the festering slums of Mexico City, and the morals of young Pedro are gradually corrupted and destroyed by the others.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Mister 880",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "Gentle romantic comedy about a Secret Service Agent trying to catch a cold case counterfeiter and a United Nations translator.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "My Blue Heaven",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Drama, Musical",
+        "description": "Betty Grable and Dan Dailey are a married song and dance team who cannot have children. The movie follows the travails as they try and adopt and keep the kids they adopt while performing on their TV show.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Broken Arrow",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama, Romance, Western",
+        "description": "Tom Jeffords tries to make peace between settlers and Apaches in Arizona territory.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Orph\u00e9e",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Fantasy, Drama, Romance",
+        "description": "A poet in love with Death follows his unhappy wife into the underworld.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Gun Crazy",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A well meaning crack shot husband is pressured by his beautiful marksman wife to go on an interstate robbery spree, where he finds out just how depraved and deadly she really is.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Branded",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Crime, Western",
+        "description": "A gunfighter takes part in a scheme to bilk a wealthy cattle family out of half a million dollars by pretending to be their son, who was kidnapped as child.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Dallas",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Romance, Western",
+        "description": "A former Confederate officer hunting for an outlaw who wronged him finds him in Dallas, but now as a wealthy, respectable citizen.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Destination Moon",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "description": "After their latest rocket fails, Dr. Charles Cargraves and retired General Thayer have to start over again. This time, Gen. Thayer approaches Jim Barnes, the head of his own aviation ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Annie Get Your Gun",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Biography, Comedy, Musical",
+        "description": "The story of the great sharpshooter Annie Oakley, who rose to fame while dealing with her love/professional rival, Frank Butler.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Night and the City",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "A small-time grifter and nightclub tout takes advantage of some fortuitous circumstances and tries to become a big-time player as a wrestling promoter.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Woman on the Run",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Frank Johnson flees police after becoming an eyewitness to murder. He is pursued around scenic San Francisco by his wife, a reporter, the police, and... the real murderer.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Cheaper by the Dozen",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "\"Cheaper By the Dozen\", based on the real-life story of the Gilbreth family, follows them from Providence, Rhode Island to Montclair, New Jersey, and details the amusing anecdotes found in ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Gunfighter",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Western",
+        "description": "Notorious gunfighter Jimmy Ringo rides into town to find his true love, who doesn't want to see him. He hasn't come looking for trouble, but trouble finds him around every corner.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Stage Fright",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "A struggling actress tries to help a friend prove his innocence when he's accused of murdering the husband of a high society entertainer.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Summer Stock",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Musical, Romance",
+        "description": "A small-town farmer, down on her luck, finds her homestead invaded by a theatrical troupe invited to stay by her ne'er-do-well sister.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Kiss Tomorrow Goodbye",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "Starting with a violent prison break, clever, ruthless Ralph Cotter corrupts everyone around him.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Men",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama",
+        "description": "A paralyzed war vet tries to adjust to the world without the use of his limbs.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "King Solomon's Mines",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Adventurer Allan Quartermain leads an expedition into uncharted African territory in an attempt to locate an explorer who went missing during his search for the fabled diamond mines of King Solomon.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Tea for Two",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A socialite with aspirations of a career in show business bets her wealthy uncle $25,000 that she can say \"no\" to everything for two days straight, hoping winning will help her fulfill her dreams.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Something in the City",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Comedy",
+        "description": "Mr Ningle has been living a lie for seven years by pretending to still be commuting to his financial services job in the City of London from which he had been sacked. Every day, he journeys...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Breaking Point",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An otherwise moral captain of a charter boat becomes financially strapped and is drawn into illegal activities in order to keep up payments on his boat.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Quicksand",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After taking 20 dollars from his employer to go on a date with plans to repay it the next day, an auto mechanic falls into increasingly disastrous circumstances for more and more money which rapidly spirals out of his control.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Furies",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama, Romance, Western",
+        "description": "A firebrand heiress clashes with her tyrannical father, a cattle rancher who fancies himself a Napoleon; but their relationship turns ugly only when he finds himself a new woman.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Young Man with a Horn",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Biography, Drama, Music",
+        "description": "A young trumpeter enjoys highs (musical success, fame, and fortune) and lows (sour marriage, death of his mentor, bout with alcoholism).",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "No Way Out",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A black doctor is assigned to treat two white racist suspects who are brothers, and when one dies, it causes tension that could start a race riot.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Caged",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A naive nineteen year old widow becomes coarsened and cynical when she is sent to a woman's prison and is exposed to hardened criminals and sadistic guards.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Where the Sidewalk Ends",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Det. Sgt. Mark Dixon wants to be something his old man wasn't: a guy on the right side of the law. But Dixon's vicious nature will get the better of him.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Flame and the Arrow",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Dardo, a Robin Hood-like figure, and his loyal followers use a Roman ruin in Medieval Lombardy as their headquarters as they conduct an insurgency against their Hessian conquerors.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "A Ticket to Tomahawk",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Music, Western",
+        "description": "In 1876 Colorado, the Tomahawk and Western Railroad is expanding through the Rockies, but some stagecoach operators, fearing a loss of revenue, plan to sabotage the railroad.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Panic in the Streets",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A doctor and a policeman in New Orleans have only 48 hours to locate a killer infected with pneumonic plague.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Les enfants terribles",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama",
+        "description": "The dangerously obsessive relationship between a psychologically manipulative brother and sister who isolate themselves and draw others into their mind games.",
+        "director": "",
+        "stars": []
+    }
+}

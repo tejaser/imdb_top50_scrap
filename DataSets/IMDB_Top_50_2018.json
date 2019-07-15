@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "certificate": "U",
+        "runtime": "117 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Hereditary",
+        "certificate": "A",
+        "runtime": "127 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Robin Hood",
+        "certificate": "UA",
+        "runtime": "116 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Spy Who Dumped Me",
+        "certificate": "A",
+        "runtime": "117 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Teen Spirit",
+        "certificate": "PG-13",
+        "runtime": "93 min",
+        "genre": "Drama, Music",
+        "description": "Violet is a shy teenager who dreams of escaping her small town and pursuing her passion to sing. With the help of an unlikely mentor, she enters a local singing competition that will test her integrity, talent and ambition. Driven by a pop-fueled soundtrack, Teen Spirit is a visceral and stylish spin on the Cinderella story.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Ophelia",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Drama, Romance",
+        "description": "A re-imagining of Hamlet, told from Ophelia's perspective.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "A Star Is Born",
+        "certificate": "R",
+        "runtime": "136 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Bad Times at the El Royale",
+        "certificate": "R",
+        "runtime": "141 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Circa 1969, several strangers, most with a secret to bury, meet by chance at Lake Tahoe's El Royale, a rundown hotel with a dark past. Over the course of one night, everyone will show their true colors - before everything goes to hell.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Avengers: Infinity War",
+        "certificate": "UA",
+        "runtime": "149 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Hotel Mumbai",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Drama, History, Thriller",
+        "description": "The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk their lives to keep everyone safe as people make unthinkable sacrifices to protect themselves and their families.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Venom",
+        "certificate": "UA",
+        "runtime": "112 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Ralph Breaks the Internet",
+        "certificate": "U",
+        "runtime": "112 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Aquaman",
+        "certificate": "UA",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Bohemian Rhapsody",
+        "certificate": "UA",
+        "runtime": "134 min",
+        "genre": "Biography, Drama, Music",
+        "description": "The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Swiped",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy",
+        "description": "James, a college freshman and computer genius, is enlisted by his womanizing roommate, Lance, to code the ultimate hook-up app. But when James discovers that his divorced mother is using the app, unexpected consequences ensue.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Slaughterhouse Rulez",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Action, Comedy, Horror",
+        "description": "An illustrious British boarding school becomes a bloody battleground when a mysterious sinkhole appears at a nearby fracking site unleashing unspeakable horror.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Crazy Rich Asians",
+        "certificate": "UA",
+        "runtime": "120 min",
+        "genre": "Comedy, Romance",
+        "description": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Green Book",
+        "certificate": "UA",
+        "runtime": "130 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Hummingbird Project",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Thriller",
+        "description": "A pair of high-frequency traders go up against their old boss in an effort to make millions in a fiber-optic cable deal.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Ready Player One",
+        "certificate": "UA",
+        "runtime": "140 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Black Panther",
+        "certificate": "UA",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Professor",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama",
+        "description": "A college professor lives his life with reckless abandon after being diagnosed with a terminal illness.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Perfection",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "When troubled musical prodigy Charlotte (Allison Williams) seeks out Elizabeth (Logan Browning), the new star pupil of her former school, the encounter sends both musicians down a sinister path with shocking consequences.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Deadpool 2",
+        "certificate": "R",
+        "runtime": "119 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Ray & Liz",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "Photographer Richard Billingham returns to the squalid council flat outside of Birmingham where he and his brother were raised, in a confrontation and reconciliation with parents Ray and Liz.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "BlacKkKlansman",
+        "certificate": "R",
+        "runtime": "135 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Under the Silver Lake",
+        "certificate": "R",
+        "runtime": "139 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Sam, a disenchanted young man, finds a mysterious woman swimming in his apartment's pool one night. The next morning, she disappears. Sam sets off across LA to find her, and along the way he uncovers a conspiracy far more bizarre.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Nun",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Public",
+        "certificate": "PG-13",
+        "runtime": "119 min",
+        "genre": "Drama",
+        "description": "An act of civil disobedience turns into a standoff with police when homeless people in Cincinnati take over the public library to seek shelter from the bitter cold.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Vice",
+        "certificate": "R",
+        "runtime": "132 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that we still feel today.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Mule",
+        "certificate": "A",
+        "runtime": "116 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A 90-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Mission: Impossible - Fallout",
+        "certificate": "PG-13",
+        "runtime": "147 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Meg",
+        "certificate": "UA",
+        "runtime": "113 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "A group of scientists exploring the Marianas Trench encounter the largest marine predator that has ever existed - the Megalodon.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Fantastic Beasts: The Crimes of Grindelwald",
+        "certificate": "UA",
+        "runtime": "134 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "The second installment of the \"Fantastic Beasts\" series featuring the adventures of Magizoologist Newt Scamander.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Old Man & the Gun",
+        "certificate": "PG-13",
+        "runtime": "93 min",
+        "genre": "Biography, Comedy, Crime",
+        "description": "Based on the true story of Forrest Tucker and his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Ocean's Eight",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Suspiria",
+        "certificate": "R",
+        "runtime": "152 min",
+        "genre": "Fantasy, Horror, Mystery",
+        "description": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Little Mermaid",
+        "certificate": "PG",
+        "runtime": "85 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Night School",
+        "certificate": "UA",
+        "runtime": "111 min",
+        "genre": "Comedy",
+        "description": "A group of high school dropouts are forced to attend night school in hope that they'll pass the GED exam to finish high school.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Jurassic World: Fallen Kingdom",
+        "certificate": "UA",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "A Quiet Place",
+        "certificate": "A",
+        "runtime": "90 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Skin",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Biography, Drama",
+        "description": "A destitute young man, raised by racist skinheads and notorious among white supremacists, turns his back on hatred and violence to transform his life, with the help of a black activist and the woman he loves.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Predator",
+        "certificate": "A",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Creed II",
+        "certificate": "UA",
+        "runtime": "130 min",
+        "genre": "Drama, Sport",
+        "description": "Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Girl in the Spider's Web",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "High Life",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Adventure, Drama, Mystery",
+        "description": "A father and his daughter struggle to survive in deep space where they live in isolation.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "A Simple Favor",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Mamma Mia! Here We Go Again",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother's past.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Golem",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Horror",
+        "description": "During an outbreak of a deadly plague, a mystical woman must save her tight-knit Jewish community from foreign invaders, but the entity she conjures to protect them is a far greater evil.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Solo: A Star Wars Story",
+        "certificate": "UA",
+        "runtime": "135 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Grease",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Musical, Romance",
+        "description": "Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Jaws 2",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Adventure, Drama, Horror",
+        "description": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Superman",
+        "certificate": "U",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Deer Hunter",
+        "certificate": "A",
+        "runtime": "183 min",
+        "genre": "Drama, War",
+        "description": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Halloween",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Horror, Thriller",
+        "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "National Lampoon's Animal House",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Comedy",
+        "description": "At a 1962 college, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Midnight Express",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Billy Hayes (Brad Davis), an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Dawn of the Dead",
+        "certificate": "A",
+        "runtime": "127 min",
+        "genre": "Horror, Thriller",
+        "description": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Pretty Baby",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "A teenage girl lives as a prostitute in New Orleans in 1917.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Invasion of the Body Snatchers",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "When seeds drift to earth from space, mysterious pods begin to grow and invade a small town, replicating the residents one body at a time.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Day of the Woman",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Horror, Thriller",
+        "description": "An aspiring writer is repeatedly gang-raped, humiliated, and left for dead by four men whom she systematically hunts down to seek revenge.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Days of Heaven",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama, Romance",
+        "description": "A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Wiz",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "An adaptation of \"The Wizard of Oz\" that tries to capture the essence of the African-American experience.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Convoy",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Action, Drama",
+        "description": "Truckers form a mile long \"convoy\" in support of a trucker's vendetta with an abusive sheriff...Based on the country song of same title by C.W. McCall.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Piranha",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Force 10 from Navarone",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Action, Drama, War",
+        "description": "During World War II, several oddly assorted military experts are teamed in a mission to raid and destroy a bridge vital to enemy strategy.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Up in Smoke",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Music",
+        "description": "Two stoners unknowingly smuggle a van - made entirely of marijuana - from Mexico to L.A., with incompetent Sgt. Stedenko on their trail.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Starcrash",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "An outlaw smuggler and her alien companion are recruited by the Emperor of the Galaxy to rescue his son and destroy a secret weapon by the evil Count Zarth Arn.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Every Which Way but Loose",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Action, Comedy",
+        "description": "The San Fernando Valley adventures of trucker turned prize-fighter Philo Beddoe and his pet orangutan Clyde.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Corvette Summer",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Adventure, Comedy",
+        "description": "A high school grad and a hooker-in-training try to track down his stolen Corvette.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Watership Down",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "A group of rabbits flee their doomed warren and face many dangers to find and protect their new home.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Lord of the Rings",
+        "certificate": "",
+        "runtime": "132 min",
+        "genre": "Animation, Adventure, Fantasy",
+        "description": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Death on the Nile",
+        "certificate": "",
+        "runtime": "140 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "As Hercule Poirot (Sir Peter Ustinov) enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board. Can Poirot identify the killer before the ship reaches the end of its journey?",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Heaven Can Wait",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A Los Angeles Rams quarterback, accidentally taken away from his body by an overanxious angel before he was meant to die, returns to life in the body of a recently murdered millionaire.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Fury",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A former CIA agent uses the talents of a young psychic to help retrieve his telekinetic son from terrorists, who want to use his mental powers for evil.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Quel maledetto treno blindato",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, War",
+        "description": "In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Coming Home",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Drama, Romance, War",
+        "description": "A woman whose husband is fighting in Vietnam falls in love with another man who suffered a paralyzing combat injury there.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Buddy Holly Story",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Biography, Drama, Music",
+        "description": "The story of the life and career of the early rock and roll singer, from his meteoric rise to stardom, to his marriage and untimely death.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Zui quan",
+        "certificate": "PG-13",
+        "runtime": "111 min",
+        "genre": "Action, Comedy",
+        "description": "Wong Fei-Hung (Jackie Chan) is a mischievous, yet righteous young man, but after a series of incidents, his frustrated father has him disciplined by Beggar So (Siu Tin Yuen), a Master of drunken martial arts.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Game of Death",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A martial arts movie star must fake his death to find the people who are trying to kill him.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Wild Geese",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A British banker hires a group of British mercenaries to rescue a deposed African President from the hands of a corrupt African dictator.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Boys from Brazil",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Drama, Thriller",
+        "description": "A Nazi hunter in Paraguay discovers a sinister and bizarre plot to rekindle the Third Reich.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "I Wanna Hold Your Hand",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "In 1964, six teenagers from New Jersey run off to see The Beatles perform on Toast of the Town (1948) in the hope of meeting their idols. However, they don't have tickets. Along the way, they learn new things about friendship and growing up.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Goin' South",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "Due to the lack of men after the Civil War, a small western town allows a bachelorette with ulterior motives to save a horse thief from the gallows by marrying him. They must deal with his old gang, the Sheriff, the bank, and each other.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Attack of the Killer Tomatoes!",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Adventure, Comedy, Horror",
+        "description": "A group of scientists band together to save the world from mutated killer tomatoes.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Eyes of Laura Mars",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Mystery, Thriller",
+        "description": "A famous fashion photographer develops a disturbing ability to see through the eyes of a killer.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Coma",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "When a young female doctor notices an unnatural amount of comas occurring in her hospital she uncovers a horrible conspiracy.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "La montagna del dio cannibale",
+        "certificate": "A",
+        "runtime": "99 min",
+        "genre": "Adventure, Horror",
+        "description": "A girl and her brother fly to New Guinea to look for a lost expedition, led by her husband, which has vanished in the great jungle.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Chant of Jimmie Blacksmith",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Jimmie Blacksmith, the son of an Aboriginal mother and a white father, falls victim to much racist abuse after marrying a white woman, and goes on a killing spree and finds himself on the run in the aftermath.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Magic",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama, Horror",
+        "description": "A ventriloquist is at the mercy of his vicious dummy while he tries to renew a romance with his high school sweetheart.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "Small town band hits it big, but they must battle a nefarious plot in the music industry.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Foul Play",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Comedy, Mystery, Thriller",
+        "description": "A shy San Francisco librarian and a bumbling cop fall in love as they solve a crime involving albinos, dwarves, and the Catholic Church.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Damien: Omen II",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Horror",
+        "description": "Damien the Antichrist, now thirteen years old, finally learns of his destiny under the guidance of an unholy disciple of Satan. Meanwhile dark forces begin to eliminate all those who suspect the child's true identity.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Legacy",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Horror",
+        "description": "A millionaire, a million-dollar prostitute, a star-maker, a nation-killer, a woman whose lusts are as cold as graveyard snow. Five of the most powerful people in the world, and Maggie (...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Interiors",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Drama",
+        "description": "Three sisters find their lives spinning out of control in the wake of their parents' sudden, unexpected divorce.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "H\u00f6stsonaten",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Music",
+        "description": "A married daughter who longs for her mother's love is visited by the latter, a successful concert pianist.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The First Great Train Robbery",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Adventure, Crime, Drama",
+        "description": "In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Big Sleep",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Grizzled American private detective in England investigates a complicated case of blackmail turned murder involving a rich but honest elderly general, his two loose socialite daughters, a pornographer and a gangster.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "F.I.S.T",
+        "certificate": "",
+        "runtime": "145 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A rebellious Cleveland warehouse worker rises through the ranks of a trucking industry union to become union president but his organized crime links cause his eventual downfall.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Felicity",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "Young Felicity lives in a monastic school. The only way to live out her sexual fantasies is together with her girlfriend Jenny. But then she receives an invitation to her sister in ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    }
+}

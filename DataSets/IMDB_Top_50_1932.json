@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Tarzan the Ape Man",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A trader and his daughter set off in search of the fabled graveyard of the elephants in deepest Africa, only to encounter a wild man raised by apes.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Freaks",
+        "certificate": "",
+        "runtime": "64 min",
+        "genre": "Drama, Horror",
+        "description": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Bitter Tea of General Yen",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama, Romance, War",
+        "description": "A Chinese warlord and an engaged Christian missionary fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Central Park",
+        "certificate": "",
+        "runtime": "58 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Gangsters posing as police officers offer a woman a chance to make money if she helps them out.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Scarface",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Action, Crime, Drama",
+        "description": "An ambitious and nearly insane violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Most Dangerous Game",
+        "certificate": "",
+        "runtime": "63 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "An insane hunter arranges for a ship to be wrecked on an island where he can indulge in some sort of hunting and killing of the passengers.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Old Dark House",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "Seeking shelter from a storm, five travelers are in for a bizarre and terrifying night when they stumble upon the Femm family estate.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Mummy",
+        "certificate": "",
+        "runtime": "73 min",
+        "genre": "Fantasy, Horror",
+        "description": "A resurrected Egyptian mummy stalks a beautiful woman he believes to be the reincarnation of his lover and bride.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Vampyr",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Fantasy, Horror",
+        "description": "A drifter obsessed with the supernatural stumbles upon an inn where a severely ill adolescent girl is slowly becoming a vampire.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Island of Lost Souls",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "An obsessed scientist conducts profane experiments in evolution, eventually establishing himself as the self-styled demigod to a race of mutated, half-human abominations.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Grand Hotel",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, Romance",
+        "description": "A group of very different individuals staying at a luxurious hotel in Berlin deal with each of their respective dramas.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "White Zombie",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Horror",
+        "description": "A young man turns to a witch doctor to lure the woman he loves away from her fianc\u00e9, but instead turns her into a zombie slave.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Sign of the Cross",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama, History",
+        "description": "A Roman soldier becomes torn between his love for a Christian woman and his loyalty to Emperor Nero.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Shanghai Express",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A loose woman rediscovers a former lover during a dangerous train ride to Shanghai.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Law and Order",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Western",
+        "description": "A lawman sets out to tame Tombstone, Arizona.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Blonde Venus",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama",
+        "description": "A cabaret singer takes up with a millionaire to pay for her gravely ill husband's operation.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Trouble in Paradise",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "A gentleman thief and a lady pickpocket join forces to con a beautiful perfume company owner. Romantic entanglements and jealousies confuse the scheme.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "I Am a Fugitive from a Chain Gang",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Wrongly convicted James Allen serves in the intolerable conditions of a southern chain gang, which later comes back to haunt him.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "A Farewell to Arms",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama, Romance, War",
+        "description": "An American ambulance driver and an English nurse fall in love in Italy during World War I.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Red Dust",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Drama, Romance",
+        "description": "The owner of a rubber plantation becomes involved with the new wife of one of his employees.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Doctor X",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Comedy, Crime, Horror",
+        "description": "A wisecracking New York reporter intrudes on a research scientist's quest to unmask The Moon Killer.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Strange Interlude",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "After Nina Leeds finds out that insanity runs in her husband's family, she has a love child with a handsome doctor and lets her husband believes the child is his.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Le sang d'un po\u00e8te",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "Fantasy",
+        "description": "A young artist draws a face at a canvas on his easel. Suddenly the mouth on the drawing comes into life and starts talking. The artist tries to wipe it away with his hand, but when he looks...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Horse Feathers",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Quincy Adams Wagstaff, the new president of Huxley University, accidentally hires bumblers Baravelli and Pinky to help his school win the big football game against the rival Darwin University.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Murders in the Rue Morgue",
+        "certificate": "",
+        "runtime": "61 min",
+        "genre": "Crime, Horror, Mystery",
+        "description": "A mad scientist seeks to mingle human blood with that of an ape, and resorts to kidnapping women for his experiments.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Three on a Match",
+        "certificate": "",
+        "runtime": "63 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Although Vivian Revere is seemingly the most successful of a trio of reunited schoolmates, she throws it away by descending into a life of debauchery and drugs.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "If I Had a Million",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Drama",
+        "description": "A dying tycoon gives million-dollar windfalls to eight people picked from the city directory.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "What Price Hollywood?",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "The career of a waitress takes off when she meets an amiable drunken Hollywood director.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Red-Headed Woman",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Comedy, Romance",
+        "description": "Lillian relentlessly attempts to seduce a married man.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Rain",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "A prostitute newly arrived in the South Pacific finds herself at odds with a stern missionary determined to save her soul.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Number Seventeen",
+        "certificate": "",
+        "runtime": "66 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "A gang of thieves gather at a safe house following a robbery, but a detective is on their trail.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Das blaue Licht",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Fantasy, Mystery",
+        "description": "When the moon is full, young men die attempting to reach the mysterious blue light in the mountains.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Merrily We Go to Hell",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A drunken newspaperman is rescued from his alcoholic haze by an heiress whose love sobers him up and encourages him to write a play, but he lapses back into dipsomania.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Bird of Paradise",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A native girl falls for a visitor to her island, but she's chosen to be sacrificed to the volcano god.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Pack Up Your Troubles",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Comedy, War",
+        "description": "Two war veterans help orphaned child to find her grandfather.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Sinners in the Sun",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, Romance",
+        "description": "A New York fashion model finds herself being pursued by a poor but honest garage mechanic and a rich philanderer.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Forbidden",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "A librarian takes a cruise and falls for an unobtainable man, a district attorney married to a crippled woman.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Night After Night",
+        "certificate": "",
+        "runtime": "73 min",
+        "genre": "Comedy, Drama",
+        "description": "A successful ex-boxer opens a high-class speakeasy in what once was the childhood home of a formerly rich society girl.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Hot Saturday",
+        "certificate": "",
+        "runtime": "73 min",
+        "genre": "Drama, Romance",
+        "description": "A pretty but virtuous small-town bank clerk is the victim of a vicious rumor from an unsuccessful suitor that she spent the night with a notorious womanizer.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "This Is the Night",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "description": "An affair is almost exposed when Claire's husband unexpectedly returns early from Summer Olympics.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Thirteen Women",
+        "certificate": "",
+        "runtime": "73 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Ursula plots to murder 12 women with her supernatural powers.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Madame Butterfly",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama",
+        "description": "Lieutenant Pinkerton marries geisha-in-training but soon after abandons her and goes back to the US.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Three Wise Girls",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Cassie moves to New York and jumps from one job to another until she lands a modeling gig.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Broken Lullaby",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Drama",
+        "description": "French soldier travels to Germany to find a family of a man he killed during World War I.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "A Bill of Divorcement",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "A man, Hilary Fairfield returns home after fifteen years in a mental asylum. However, he finds things are not the way they were when he left.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Call Her Savage",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "Sexy Texas gal storms her way through life, brawling and boozing until her luck runs out, forcing her to learn the errors of her ways.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Tiger Shark",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Drama, Romance",
+        "description": "A tuna fisherman marries a woman who doesn't love him.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Rasputin and the Empress",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Biography, Drama, History",
+        "description": "A prince plots to kill the mad monk Rasputin for the good of the czar, the czarina and Russia.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "No Man of Her Own",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "A con man on the run from the police falls for a librarian.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Devil and the Deep",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Drama",
+        "description": "Man sets out for revenge after learning of his wife's affair.",
+        "director": "",
+        "stars": []
+    }
+}

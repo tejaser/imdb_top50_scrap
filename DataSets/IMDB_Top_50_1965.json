@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Sound of Music",
+        "certificate": "",
+        "runtime": "172 min",
+        "genre": "Biography, Drama, Family",
+        "description": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Per qualche dollaro in pi\u00f9",
+        "certificate": "R",
+        "runtime": "132 min",
+        "genre": "Western",
+        "description": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Doctor Zhivago",
+        "certificate": "PG-13",
+        "runtime": "197 min",
+        "genre": "Drama, Romance, War",
+        "description": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Thunderball",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond heads to the Bahamas to recover two nuclear warheads stolen by S.P.E.C.T.R.E. Agent Emilio Largo in an international extortion scheme.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Sons of Katie Elder",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Western",
+        "description": "Ranch owner Katie Elder's four sons determine to avenge the murder of their father and the swindling of their mother.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Great Race",
+        "certificate": "",
+        "runtime": "160 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "In the early 20th century, two rivals, the heroic Leslie and the despicable Professor Fate, engage in an epic automobile race from New York to Paris.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Beach Blanket Bingo",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "In the fourth of the highly successful Frankie and Annette beach party movies, a motorcycle gang led by Eric Von Zipper kidnaps singing star Sugar Kane managed by Bullets, who hires ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Repulsion",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "A sex-repulsed woman who disapproves of her sister's boyfriend sinks into depression and has horrific visions of rape and violence.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Faster, Pussycat! Kill! Kill!",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Action, Comedy",
+        "description": "Three go-go dancers holding a young girl hostage come across a crippled old man living with his two sons in the desert. After learning he's hiding a sum of cash around, the women start scheming on him.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Cat Ballou",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "A young schoolteacher turns into an outlaw to avenge her murdered father.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "In Harm's Way",
+        "certificate": "",
+        "runtime": "165 min",
+        "genre": "Drama, War",
+        "description": "A Naval officer, reprimanded after Pearl Harbor, is later promoted to Rear Admiral and gets a second chance to prove himself against the Japanese.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Beach Girls and the Monster",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Horror",
+        "description": "Surfers are being brutally murdered. Is the culprit a sea monster or just one of the teens' jealous parents?",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Battle of the Bulge",
+        "certificate": "",
+        "runtime": "167 min",
+        "genre": "Drama, History, War",
+        "description": "A dramatization of Nazi Germany's final Western Front counterattack of World War II.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Dear Brigitte",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Family",
+        "description": "Professor Leaf, an absent-minded poet with a prejudice against the sciences, is forced to face the fact that his son is a math prodigy with little artistic talent of his own.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Hill",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Drama, War",
+        "description": "In a North African military prison during World War II, five new prisoners struggle to survive in the face of brutal punishment and sadistic guards.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Help!",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Adventure, Comedy, Musical",
+        "description": "Ringo Starr finds himself the human sacrifice target of a cult, and his fellow members of The Beatles must try to protect him from it.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Greatest Story Ever Told",
+        "certificate": "",
+        "runtime": "260 min",
+        "genre": "Biography, Drama, History",
+        "description": "An all-star, large scale epic film that chronicles the life and ministry of Jesus Christ.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Pierrot le fou",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Collector",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Thriller",
+        "description": "A man kidnaps a woman and holds her hostage just for the pleasure of having her there.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Dr. Goldfoot and the Bikini Machine",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Sci-Fi",
+        "description": "Skirt-chasing SIC agent Craig Gamble and millionaire bachelor Todd Armstrong set out to foil mad scientist Dr. Goldfoot's plot to use his army of bikini-clad robots to seduce wealthy men into signing over their assets.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Flight of the Phoenix",
+        "certificate": "",
+        "runtime": "142 min",
+        "genre": "Adventure, Drama",
+        "description": "After a plane crash in the Sahara, one of the survivors says he's an airplane designer and they can make a flyable plane from the wreckage.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "How to Stuff a Wild Bikini",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Musical",
+        "description": "Frankie, on naval-reserve duty in Tahiti, doesn't trust Dee Dee to stay faithful, so he hires Bwana, a witch doctor, to help. Bwana conjures up a floating bikini, \"stuffs\" it with Cassandra...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Othello",
+        "certificate": "",
+        "runtime": "165 min",
+        "genre": "Drama",
+        "description": "A General's marriage is destroyed when a vengeful Lieutenant convinces him that his new wife has been unfaithful.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "She",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Adventure, Fantasy",
+        "description": "An Edwardian archaeologist and two companions stumble upon a lost city in East Africa, run by a beautiful queen whose love holds the promise of immortality.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Invasion",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Sci-Fi",
+        "description": "An alien spaceship crashes near a rural hospital. When the alien is taken to the hospital, a mysterious force field suddenly appears around it.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "That Darn Cat!",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Comedy, Crime, Family",
+        "description": "After a kidnapped bank teller uses a neighbor's wandering cat to send an SOS, the FBI assigns a cat-allergic agent to the case.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Alphaville, une \u00e9trange aventure de Lemmy Caution",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "description": "A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Shenandoah",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, War, Western",
+        "description": "During the Civil War, a Virginia farmer and his family vow to remain neutral, but one of the sons is captured by Union soldiers, sending the farmer to his rescue.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Spy Who Came In from the Cold",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, Thriller",
+        "description": "British agent Alec Leamas refuses to come in from the Cold War during the 1960s, choosing to face another mission, which may prove to be his final one.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "Hoping to push Britain to the forefront of aviation, a London publisher organizes an international air race across the English Channel, but must contend with two entrants vying for his daughter, as well as national rivalries and cheating.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Village of the Giants",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Comedy, Sci-Fi",
+        "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Cincinnati Kid",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama",
+        "description": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "What's New Pussycat",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy",
+        "description": "A playboy who refuses to give up his hedonistic lifestyle to settle down and marry his true love seeks help from a demented psychoanalyst who is having romantic problems of his own.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Kaij\u00fb daisens\u00f4",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Aliens from Planet X request the use of Godzilla and Rodan to fight off King Ghidorah, but have a better use for the three monsters.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Orgy of the Dead",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Fantasy, Horror",
+        "description": "Bob and his girlfriend Shirley go in search of a cemetery in order to inspire John for writing his next horror story. After they crash the car, they wander into the graveyard and encounter ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Darling",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Drama, Romance",
+        "description": "Beautiful, but amoral, model Diana Scott (Julie Christie) sleeps her way to the top of the London fashion scene at the height of the Swinging Sixties.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Ipcress File",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Thriller",
+        "description": "In London, a counter espionage Agent deals with his own bureaucracy while investigating the kidnapping and brainwashing of British scientists.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Major Dundee",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Adventure, War, Western",
+        "description": "In 1864, due to frequent Apache raids from Mexico into the U.S., a Union officer decides to illegally cross the border and destroy the Apache, using a mixed army of Union troops, Confederate POWs, civilian mercenaries, and scouts.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Party's Over",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "An American businessman visits London and is horrified to discover his nubile teenage daughter has become involved with a gang of thuggish \"beatniks\". Her involvement leads to wild parties, sex, death and necrophilia.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "A Patch of Blue",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Romance",
+        "description": "A blind, uneducated white girl is befriended by a black man, who becomes determined to help her escape her impoverished and abusive home life by introducing her to the outside world.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Campanadas a medianoche",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Comedy, Drama, History",
+        "description": "The career of Shakespeare's Sir John Falstaff as a roistering companion to young Prince Hal, circa 1400 to 1413.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Naked Prey",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "During the 1800s, a safari guide, two elephant hunters and their crew run into trouble with the natives in the South African veld when they refuse to offer gifts to the tribesmen.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Le bonheur",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Drama, Romance",
+        "description": "Fran\u00e7ois, a young carpenter, lives a happy, uncomplicated life with his wife Th\u00e9r\u00e8se and their two small children. One day he meets Emilie, a clerk in the local post office.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Ship of Fools",
+        "certificate": "",
+        "runtime": "149 min",
+        "genre": "Drama, Romance, War",
+        "description": "A varied group of passengers boarding a ship bound for pre-WWII Germany represents a microcosm of early 1930s society.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Glory Guys",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Romance, Western",
+        "description": "What could be worse for two cavalry officers than to battle with native tribes? To battle each other for the same woman.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Dr. Terror's House of Horrors",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Horror",
+        "description": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Akahige",
+        "certificate": "",
+        "runtime": "185 min",
+        "genre": "Drama",
+        "description": "In 19th century Japan, a rough tempered yet charitable town doctor trains a young intern.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "How to Murder Your Wife",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Comedy",
+        "description": "A dedicated bachelor drunkenly marries a young woman and immediately lives to regret it.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Bedford Incident",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Drama, Thriller",
+        "description": "An American destroyer Captain is determined to confront a Soviet submarine caught violating territorial waters. Perhaps too determined.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Heroes of Telemark",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Action, Drama, History",
+        "description": "Norwegian resistance tries to stop German efforts to produce an atomic bomb component during World War II.",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "M - Eine Stadt sucht einen M\u00f6rder",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "City Lights",
+        "certificate": "G",
+        "runtime": "87 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Frankenstein",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "An obsessed scientist assembles a living being from parts of exhumed corpses.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Dracula",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Fantasy, Horror",
+        "description": "The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Little Caesar",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A small-time criminal moves to a big city to seek bigger fortune.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Public Enemy",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Crime, Drama",
+        "description": "A young hoodlum rises up through the ranks of the Chicago underworld, even as a gangster's accidental death threatens to spark a bloody mob war.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Dr. Jekyll and Mr. Hyde",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that transforms him into the animalistic Mr. Hyde.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Tabu: A Story of the South Seas",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama, Romance, Adventure",
+        "description": "On the South Pacific island of Bora Bora, a young couple's love is threatened when the tribal chief declares the girl a sacred virgin.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Monkey Business",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Comedy, Musical",
+        "description": "On a transatlantic crossing, The Marx Brothers get up to their usual antics and manage to annoy just about everyone on board the ship.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Cimarron",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Drama, Western",
+        "description": "A newspaper editor settles in an Oklahoma boom town with his reluctant wife at the end of the nineteenth century.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Skin Game",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama",
+        "description": "An old traditional family and a modern family battle over land in a small English village and almost destroy each other.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Maltese Falcon",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A lovely dame with dangerous lies employs the services of a private detective, who is quickly caught up in the mystery and intrigue of a statuette known as the Maltese Falcon.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Waterloo Bridge",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama, Romance",
+        "description": "A prostitute's self-loathing makes her reluctant to marry an idealistic soldier during World War One.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Front Page",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy",
+        "description": "An investigative reporter sees an opportunity for the story of a lifetime when an accused murderer escapes hanging.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "M\u00e4dchen in Uniform",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama, Romance",
+        "description": "At an all-girls boarding school, Manuela falls in love with a teacher, to terrific consequences.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Mata Hari",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A semi-fictionalized account of the life of Mata Hari, an exotic dancer who was accused of spying for Germany during World War I.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "A Free Soul",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "An alcoholic lawyer who successfully defended a notorious gambler on a murder charge objects when his free-spirited daughter becomes romantically involved with him.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Pardon Us",
+        "certificate": "",
+        "runtime": "56 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Two guys end up in prison after attempting to sell beer to a policeman during Prohibition.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "La chienne",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Crime, Drama",
+        "description": "A woman and her pimp exploit a painter for money.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Hyppolit a lak\u00e1j",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Comedy",
+        "description": "A butler changes the life of a nouveau-riche entrepreneur's life, while his daughter falls in love with the company's manager instead of a suitor chosen for her.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Rich and Strange",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Romance, Thriller",
+        "description": "Believing that an unexpected inheritance will bring them happiness, a married couple instead finds their relationship strained to the breaking point.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Trader Horn",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Two white traders in the darkest Africa of the 1870s find a missionary's daughter, who was captured as a child by a savage tribe and now worshiped as a goddess.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Black Camel",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "The unsolved murder of a Hollywood actor several years earlier and an enigmatic psychic are the keys to help Charlie solve the Honolulu stabbing death of a beautiful actress.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Smart Money",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Crime, Drama",
+        "description": "Immigrant Greek barber has uncommon skills in playing poker and soon rises in the seedy world of illegal gambling, but pretty blondes remain his Achilles' heel.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Bad Sister",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Drama",
+        "description": "Marianne falls in love with a con artist who has a hidden agenda.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Girls About Town",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy",
+        "description": "Two gold diggers prey on old rich men, but one of them falls in love with a young, rich man.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Private Lives",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Divorced couple unexpectedly meet each other during their honeymoon and rekindle their love.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Millie",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "Millie's life begins to crumble when she finds out her husband is having an affair.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Smiling Lieutenant",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance, Musical",
+        "description": "An amorous lieutenant is forced to marry a socially awkward princess, though he tries to keep his violin-playing girlfriend on the side.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Champ",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Drama, Sport",
+        "description": "An alcoholic ex-boxer struggles to provide a good living for his son.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "City Streets",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Man joins a gang to free his girlfriend from prison.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Possessed",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Drama, Romance",
+        "description": "An ambitious factory girl meets a handsome, wealthy lawyer, but he's interested in her as a mistress, not a wife.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Painted Desert",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Western",
+        "description": "Two men find an abandoned baby and fight over the ownership of the child resulting in lifelong rivalry.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Blonde Crazy",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "The adventures of an egoistic con man and his glamorous accomplice.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Dishonored",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama, Romance, War",
+        "description": "The Austrian Secret Service sends its most seductive agent to spy on the Russians.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Miracle Woman",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "After an unappreciated minister dies, his daughter loses her faith in God, prompting her to open a phony temple with a con man. Can the love of a blind aviator restore her faith and happiness?",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Platinum Blonde",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "A young woman from a very rich family impulsively marries a reporter, but each assumes the other is the one whose lifestyle must change.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Marius",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Marius is faced with a choice whether to fulfill his passion by sailing the seas or stay and marry the woman he loves.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Alexander Hamilton",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Biography, Drama, History",
+        "description": "With the end of the Revolutionary War in 1783, General George Washington took Colonel Hamilton with him into the newly formed government. While the main disagreements in the early days was ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Fighting Caravans",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Romance, Western",
+        "description": "A young frontier scout helps guide a freight wagon train across the country, fighting off Indians and evil traders, while his two crusty companions try and save him from falling in love.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Die 3 Groschen-Oper",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "In London at the turn of the century, the bandit Mack the Knife marries Polly without the knowledge of her father, Peachum, the 'king of the beggars'.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Secret 6",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Crime, Drama",
+        "description": "After rising bootlegger Slaughterhouse Scorpio eliminates his gangland competition, two reporters and a cabal of six businessmen work to expose him.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Susan Lenox (Her Fall and Rise)",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Drama, Romance",
+        "description": "Fleeing her cruel uncle and an arranged marriage Susan Lenox falls in love with a kind stranger but circumstances force her to become a woman of easy virtue.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Limite",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Drama, Romance",
+        "description": "Three people sail aimlessly while remembering their past.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Dr\u00e1cula",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Fantasy, Horror",
+        "description": "Centuries-old vampire Dracula preys upon the innocent Eva and her friends.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Bad Girl",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "A man and woman, skeptical about romance, nonetheless fall in love and are wed, but their lack of confidence in the opposite sex haunts their marriage.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Other Men's Women",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Drama, Romance",
+        "description": "Events take an unhappy turn for two Bill and Jack, two locomotive engineers, after Bill is attracted to his best friend's wife.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Street Scene",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama, Romance",
+        "description": "Twenty-four hours elapse on the stoop of a Hell's Kitchen tenement as a microcosm of the American melting pot interacts with each other during a summer heatwave.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Sporting Blood",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Drama, Romance, Sport",
+        "description": "The saga of thoroughbred Tommy Boy, born in a rain puddle, and his various owners as he evolves into a a champion stakes horse.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Sleeping Cardinal",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Crime, Mystery",
+        "description": "A card cheat is threatened with exposure into joining a criminal enterprise that Holmes believes is controlled by Professor Moriarty.",
+        "director": "",
+        "stars": []
+    }
+}
